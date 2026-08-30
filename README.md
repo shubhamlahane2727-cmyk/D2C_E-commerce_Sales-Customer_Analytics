@@ -178,4 +178,4 @@ Analyzes customer events and the **View → Cart → Purchase** engagement funne
 
 B.Tech Information Technology | Data Analytics
 
-**Skills:** SQL | MySQL | Python | Pandas | Power BI | Data Visualization
+**Skills:** SQL | MySQL | Python | Power BI | Data Visualization
