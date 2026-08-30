@@ -174,8 +174,6 @@ Analyzes customer events and the **View → Cart → Purchase** engagement funne
 
 ## 👨‍💻 Author
 
-**Shubham Sominath Lahane**
+**Shubham Lahane**
 
-B.Tech Information Technology | Data Analytics
-
-**Skills:** SQL | MySQL | Python | Power BI | Data Visualization
+Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
